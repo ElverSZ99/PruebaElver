@@ -3,20 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Prueba;
+package repositorios;
 
 /**
  *
  * @author Elver
  */
-public class Prueba {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
+public class NewClass {
+    public void uwu(){
+        System.out.println("UwU");
     }
-    
 }
